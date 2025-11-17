@@ -1046,7 +1046,7 @@ const tango_list = [
   {"en": "miserable", "ja": "惨めな"},
   {"en": "substantial", "ja": "相当な、多大な"},
   {"en": "fond", "ja": "Aが好きだ"},
-  {"en": "FALSE", "ja": "まちがいの"},
+  {"en": "false", "ja": "まちがいの"},
   {"en": "lazy", "ja": "怠惰な"},
   {"en": "precisely", "ja": "正確に、まさに、ちょうど"},
   {"en": "meanwhile", "ja": "その間に"},
